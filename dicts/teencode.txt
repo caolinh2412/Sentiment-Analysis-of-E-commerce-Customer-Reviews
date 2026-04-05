@@ -1,0 +1,366 @@
+ctrai	con trai
+khôg	không
+bme	bố mẹ
+cta	chúng ta
+mih	mình
+mqh	mối quan hệ
+cgai	con gái
+nhữg	những
+mng	mọi người
+r	rồi
+cg	cũng
+qtam	quan tâm
+thươg	thương
+qtâm	quan tâm
+chug	chung
+thoy	thôi
+đki	đăng ký
+ạk	ạ
+cv	công việc
+thjk	thích
+ktra	kiểm tra
+nek	nè
+nthe	như thế
+kái	cái
+tíh	tính
+thík	thích
+thẳg	thẳng
+júp	giúp
+ko	không
+bik	biết
+vs	với
+cx	cũng
+mik	mình
+đc	được
+ngta	người ta
+ah	à
+ms	mới
+cũg	cũng
+đag	đang
+hnay	hôm nay
+ak	à
+j	gì
+qc	quảng cáo
+zui	vui
+z	vậy
+thich	thích
+đt	điện thoại
+trc	trước
+qá	quá
+ntn	như thế nào
+wá	quá
+zậy	vậy
+hjhj	hi hi
+ns	nói
+iu	yêu
+k	không
+kh	không
+lm	làm
+sr	xin lỗi
+ib	inbox
+e	em
+ji	gì
+cty	công ty
+uk	ừ
+bth	bình thường
+bt	biết
+khg	không
+nhưg	nhưng
+onl	online
+tamj	tạm
+onr	ổn
+tốgt	tốt
+háng	hàng
+giáo	giao
+depj	đẹp
+xấug	xấu
+nhanhs	nhanh
+cmnd	chứng minh nhân dân
+sđt	số điện thoại
+mn	mọi người
+bn	bạn
+mk	mình
+thik	thích
+hok	không
+kb	kết bạn
+wa	quá
+hjx	hix
+ik	ý
+ny	người yêu
+okey	ok
+ôkê	ok
+oki	ok
+oke	ok
+okay	ok
+okê	ok
+okk	ok
+oce	ok
+okie	ok
+okela	ổn lắm
+tks	cám ơn
+thks	cám ơn
+thanks	cám ơn
+ths	cám ơn
+thank	cám ơn
+thankiu	cám ơn
+ty	cám ơn
+sp	sản phẩm
+spham	sản phẩm
+sphẩm	sản phẩm
+spẩm	sản phẩm
+clg	chất lượng
+cl	chất lượng
+chluong	chất lượng
+cluong	chất lượng
+chluợng	chất lượng
+clượng	chất lượng
+đẹp xl	đẹp xuất sắc
+xl	xuất sắc
+xs	xuất sắc
+tốt xl	tốt xuất sắc
+nhe	nhé
+nhá	nhé
+nha	nhé
+nvay	như vậy
+nvậy	như vậy
+đúg	đúng
+đúgn	đúng
+gh	giao hàng
+ghàng	giao hàng
+ghang	giao hàng
+ship	giao hàng
+shipper	người giao hàng
+freeship	miễn phí vận chuyển
+fs	miễn phí vận chuyển
+vchuyen	vận chuyển
+vchuyn	vận chuyển
+đkg	đóng gói
+dkg	đóng gói
+đgói	đóng gói
+dgoi	đóng gói
+pk	phụ kiện
+pkien	phụ kiện
+chm	chậm
+chậmm	chậm
+lau	lâu
+đúghẹn	đúng hẹn
+shp	cửa hàng
+seller	người bán
+nban	người bán
+nbán	người bán
+ut	uy tín
+utin	uy tín
+utín	uy tín
+cskh	chăm sóc khách hàng
+htrợ	hỗ trợ
+htro	hỗ trợ
+htg	hỗ trợ
+pvụ	phục vụ
+pvu	phục vụ
+pv	phục vụ
+tviên	tư vấn
+tvan	tư vấn
+tvấn	tư vấn
+nhitnhs	nhiệt tình
+nhitnh	nhiệt tình
+nhttnh	nhiệt tình
+nhtình	nhiệt tình
+thfr	thân thiện
+thtien	thân thiện
+thtiện	thân thiện
+gc	giá cả
+hply	hợp lý
+hlý	hợp lý
+hợply	hợp lý
+mem	mềm (giá)
+rẻe	rẻ
+rẻẻ	rẻ
+dat	đắt
+đắtt	đắt
+mcả	mắc cả
+pic	hình ảnh
+photo	hình ảnh
+mota	mô tả
+kt	kích thước
+kthước	kích thước
+size	kích cỡ
+màu sc	màu sắc
+msac	màu sắc
+chat lieu	chất liệu
+clieu	chất liệu
+cliệu	chất liệu
+ben	bền
+đẹpp	đẹp
+đẹppp	đẹp
+xinhh	xinh
+dep	đẹp
+xau	xấu
+xấuu	xấu
+tee	tệ
+tb	thông báo
+kem	kém
+đh	đơn hàng
+dhang	đơn hàng
+dhàng	đơn hàng
+oder	đặt hàng
+order	đặt hàng
+od	đặt hàng
+đặt hg	đặt hàng
+bill	hóa đơn
+hđơn	hóa đơn
+tt	thanh toán
+ttoan	thanh toán
+ttoán	thanh toán
+cod	thanh toán khi nhận hàng
+vnpay	thanh toán vnpay
+momo	ví momo
+ck	chuyển khoản
+rv	đánh giá
+cmt	bình luận
+rep	trả lời
+feedback	phản hồi
+fback	phản hồi
+đg	đáng
+xdg	xứng đáng
+xđáng	xứng đáng
+đgtốt	đáng giá tốt
+lsau	lần sau
+ml	mua lại
+muala	mua lại
+gtieu	giới thiệu
+gthieu	giới thiệu
+gthi	giới thiệu
+recommend	giới thiệu
+rec	giới thiệu
+hlòng	hài lòng
+hlong	hài lòng
+tvọng	thất vọng
+tvong	thất vọng
+bngờ	bất ngờ
+tvời	tuyệt vời
+tuyêt	tuyệt vời
+tuyệtvời	tuyệt vời
+hhao	hoàn hảo
+kng	không
+kg	không
+khong	không
+hum	không
+hk	không
+spee	shopee
+shpee	shopee
+lzd	lazada
+tkk	tiktok shop
+kmai	khuyến mãi
+khuyen mai	khuyến mãi
+voucher	phiếu giảm giá
+vch	phiếu giảm giá
+mgg	mã giảm giá
+code	mã giảm giá
+deal	ưu đãi
+tamj oonr	tạm ổn
+tưởg	tưởng
+ủui	ủi
+chat luong	chất lượng
+san pham	sản phẩm
+duoc	được
+thi	thì
+m n	mọi người
+thich	thích
+ghet	ghét
+tot	tốt
+te	tệ
+xau	xấu
+dep	đẹp
+cc	tệ
+nhu l	tệ
+như c	tệ
+như cc	tệ
+cute	dễ thương
+huhu	negative
+vs	với
+wa	quá
+wá	quá
+j	gì
+sz	cỡ
+size	cỡ
+đx	được
+dk	được
+dc	được
+đk	được
+đc	được
+authentic	chính hãng
+aut	chính hãng
+auth	chính hãng
+thick	positive
+store	cửa hàng
+shop	cửa hàng
+sp	sản phẩm
+gud	tốt
+god	tốt
+wel done	tốt
+good	tốt
+gút	tốt
+sấu	xấu
+gut	tốt
+tot	tốt
+nice	tốt
+perfect	rất tốt
+time	thời gian
+qá	quá
+ship	giao hàng
+m	mình
+mik	mình
+product	sản phẩm
+quality	chất lượng
+excelent	hoàn hảo
+bad	tệ
+fresh	tươi
+sad	tệ
+date	hạn sử dụng
+hsd	hạn sử dụng
+quickly	nhanh
+quick	nhanh
+fast	nhanh
+delivery	giao hàng
+síp	giao hàng
+beautiful	đẹp tuyệt vời
+tl	trả lời
+r	rồi
+shope	cửa hàng
+order	đặt hàng
+chất lg	chất lượng
+sd	sử dụng
+dt	điện thoại
+nt	nhắn tin
+sài	xài
+bjo	bao giờ
+thik	thích
+sop	cửa hàng
+fb	facebook
+face	facebook
+very	rất
+dep	đẹp
+xau	xấu
+delicious	ngon
+hàg	hàng
+qủa	quả
+iu	yêu
+fake	giả mạo
+trl	trả lời
+por	tệ
+poor	tệ
+ib	nhắn tin
+rep	trả lời
+fback	feedback
+fedback	feedback
+cs	có
+vị	có
+dốg	giống
+ảh	ảnh
+nch	nói chung
+chx	chưa
+tuỵt	tuyệt
+vừi	vời
+nhma	nhưng mà
+tc	tính chất
+iem	em
