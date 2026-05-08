@@ -114,10 +114,6 @@ chluong	chất lượng
 cluong	chất lượng
 chluợng	chất lượng
 clượng	chất lượng
-đẹp xl	đẹp xuất sắc
-xl	xuất sắc
-xs	xuất sắc
-tốt xl	tốt xuất sắc
 nhe	nhé
 nhá	nhé
 nha	nhé
@@ -361,9 +357,28 @@ vị	có
 dốg	giống
 ảh	ảnh
 nch	nói chung
+xink	xinh
 chx	chưa
 tuỵt	tuyệt
 vừi	vời
 nhma	nhưng mà
 tc	tính chất
 iem	em
+dr	đúng rồi
+ncl	nói chung là
+vaix	vải
+nma	nhưng mà
+nx	nữa
+cungx	cũng
+t	tôi
+cg	cũng
+1	một
+2	hai
+3	ba
+4	bốn
+5	sáu
+7	bảy
+8	tám
+9	chín
+10	mười
+
